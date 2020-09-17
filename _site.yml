@@ -1,4 +1,5 @@
 name: "my-website"
+output: "docs"
 navbar:
   title: "My Website"
   left:
