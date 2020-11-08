@@ -1,9 +1,14 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Yunice Xiao"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "My 503 assignments at a glance"
       href: about.html
+output: 
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: styles.css
