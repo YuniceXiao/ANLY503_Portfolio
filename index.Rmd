@@ -1,10 +1,29 @@
 ---
-title: "Yunice (Yu) Xiao"
+output:
+  html_document:
+    theme: united
+    highlight: tango
 ---
 
-Welcome to my website!
+<br/><br/>
+
+#### This is an portfolio containing my assignments and final projects for the course ANLY503 Analytical Data Visualization! Select tab from the top menu bar and check them out!
+
+<br/><br/>
+
+## About me:
+
 
 ![](images/YuniceXiao.jpeg){width=30%}
 
+### Current Graduate Student in Data Science & Sister of Java
+
+<br/><br/>
+
+## About Java:
 
 ![](images/Java.jpeg){width=30%}
+
+
+### Hello humans, I'm an 11-month-old toy poodle and I'm boy.
+### In case you wonder, I don't write Java. My sister neither.

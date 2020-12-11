@@ -5,8 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "My 503 assignments at a glance"
-      href: about.html
+    - text: "Assignments"
+      href: assignments.html
+    - text: "Final Project"
+      href: final.html
 output: 
   html_document:
     theme: cosmo
